@@ -2,7 +2,7 @@
 
 Classifying the dogs breed using transfer learning in DeepLearning. It takes the image of the dog as input and tells the breed of the dog.
 
-![Dogs Breed](images/dogsbreed.jpeg)
+![Dogs Breed](images/dogsbreed.jpg)
 
 ## Run Instructions
 
